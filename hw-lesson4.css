@@ -8,8 +8,15 @@
 .boxx{
   background-color:#2563e141;
   border: 3px solid blue;
-  margin:5%;
+  margin:10px;
 }
 .chu-mau{
   color:red;
+}
+.select-all{
+  width:50%;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  aligin-item:center;
 }
