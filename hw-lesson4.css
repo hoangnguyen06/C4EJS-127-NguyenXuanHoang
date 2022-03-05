@@ -1,0 +1,15 @@
+#content{
+  color:red;
+  padding-left:10px;
+  border-top-style: double;
+  border-bottom-style: double;
+  background-color:pink;
+}
+.boxx{
+  background-color:#2563e141;
+  border: 3px solid blue;
+  margin:5%;
+}
+.chu-mau{
+  color:red;
+}
