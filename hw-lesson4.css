@@ -9,8 +9,9 @@ h3,h5{
 }
 #content{
   width:60%;
+  margin:10px;
   color:red;
-  padding-left:10px;
+  padding-left:20px;
   border-top-style: double;
   border-bottom-style: double;
   background-color:pink;
@@ -19,7 +20,8 @@ h3,h5{
   width:50%;
   background-color:#2563e141;
   border: 3px solid blue;
-  margin:10px;
+  margin-left:20px;
+  margin-top:20px;
 }
 .chu-mau{
   color:red;
@@ -29,5 +31,5 @@ h3,h5{
   display:flex;
   flex-direction:column;
   justify-content:center;
-  align-items:center;
+  
 }
