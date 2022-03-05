@@ -1,0 +1,14 @@
+/*B1*/
+h1{
+  display:block;
+  color:pink;
+}
+p{
+  display:block;
+  color:gray;
+}
+/*B2*/
+* {
+  border:1px solid black;
+}
+/*B3*/
