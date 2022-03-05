@@ -1,22 +1,33 @@
 /*B1*/
-h1{
-  display:block;
-  color:pink;
+h1 {
+  display: block;
+  color: pink;
 }
-p{
-  display:block;
-  color:gray;
+p {
+  display: block;
+  color: gray;
 }
 /*B2*/
 * {
-  border:1px solid black;
+  border: 1px solid black;
 }
 /*B3*/
-.title{
+.title {
   color: Green;
 }
 /* B4 */
-.uppercase{
-  text-transform:uppercase;
+.uppercase {
+  text-transform: uppercase;
 }
 /* B5 */
+#article-title {
+  font-family: cursive;
+}
+/* B6 */
+.ex{
+   text-decoration: none;
+}
+/* B7 */
+a:hover {
+  color: red;
+}
