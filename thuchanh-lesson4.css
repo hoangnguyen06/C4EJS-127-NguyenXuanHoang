@@ -12,3 +12,11 @@ p{
   border:1px solid black;
 }
 /*B3*/
+.title{
+  color: Green;
+}
+/* B4 */
+.uppercase{
+  text-transform:uppercase;
+}
+/* B5 */
