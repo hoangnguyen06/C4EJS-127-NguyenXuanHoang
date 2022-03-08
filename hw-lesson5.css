@@ -1,0 +1,36 @@
+code {
+  background: #2db34a;
+  border-radius: 6px;
+  color: #ffff;
+  padding: 24px 15px;
+  text-align: center;
+}
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  margin-bottom: 0;
+}
+
+.sec-tion {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+header code,
+footer code {
+  width: 100%;
+}
+.sec-tion section {
+  width: 33.33%;
+}
+.sec-tion section code {
+  width: 100%;
+}
