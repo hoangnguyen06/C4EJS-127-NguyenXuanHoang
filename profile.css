@@ -70,7 +70,9 @@ a:hover{
 }
 .space{
   border: 1px solid black;
-  width:20%;
+  width:27%;
+  height:300px;
+  padding-top: 2%;
 }
 .thongTin{
   display: flex;
@@ -78,4 +80,8 @@ a:hover{
   width: 100%;
   margin: 5%;
   margin-bottom: 6rem;
+}
+.text{
+  text-align:left;
+  padding-left:2%;
 }
