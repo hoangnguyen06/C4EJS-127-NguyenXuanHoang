@@ -44,11 +44,13 @@ a:hover{
 }
 #gioiThieu{
   width: 100%;
-  height: 500px;
-  background-color:#8ba7a1;
+  height: 550px;
+  background-color:#f2f2f2;
+  background-image: url(https://cdn.glitch.global/a55e62f2-ee8b-465f-90c6-346213992f90/code.png?v=1646926793783)
 }
 .gioiThieu{
     display: flex;
     line-height: 30px;
     font-size: 20px;
+    color:white;
 }
