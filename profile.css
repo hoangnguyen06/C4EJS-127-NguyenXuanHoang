@@ -54,3 +54,19 @@ a:hover{
     font-size: 20px;
     color:white;
 }
+.headerTnf{
+   max-width: 640px;
+   margin: 0 auto 6rem auto;
+   
+ 
+}
+.box{
+  text-align: center;
+  padding: 10rem 2rem;
+  background-color: lightgray;
+  background-image: lightgray;
+}
+.space{
+  border: 1px solid black;
+  width:30%;
+}
