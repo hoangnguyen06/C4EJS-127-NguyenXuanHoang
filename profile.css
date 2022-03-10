@@ -54,13 +54,15 @@ a:hover{
     font-size: 20px;
     color:white;
 }
-.headerTnf{
-   max-width: 640px;
-   margin: 0 auto 6rem auto;
+.headerInf{
+  max-width: 200px;
+  margin: 0 auto 6rem auto;
+  border-bottom: 0.2rem solid black;
    
  
 }
 .box{
+  width:100%;
   text-align: center;
   padding: 10rem 2rem;
   background-color: lightgray;
@@ -68,5 +70,12 @@ a:hover{
 }
 .space{
   border: 1px solid black;
-  width:30%;
+  width:20%;
+}
+.thongTin{
+  display: flex;
+  grid-gap: 4rem;
+  width: 100%;
+  margin: 5%;
+  margin-bottom: 6rem;
 }
