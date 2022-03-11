@@ -39,8 +39,8 @@ a:hover{
     width:200px;
     height: 200px;
     background-color: #8d8d8d;
-    border-radius: 50%;
-    background-image:url( https://cdn.glitch.global/a55e62f2-ee8b-465f-90c6-346213992f90/%E1%BA%A3nh-m%C3%A8o.jpg?v=1647012345941)
+/*     border-radius: 50%; */
+/*     background-image:url( https://cdn.glitch.global/a55e62f2-ee8b-465f-90c6-346213992f90/%E1%BA%A3nh-m%C3%A8o.jpg?v=1647012345941) */
 }
 #gioiThieu{
   width: 100%;
@@ -84,4 +84,9 @@ a:hover{
 .text{
   text-align:left;
   padding-left:2%;
+}
+img{
+  width:100%;
+  height:100%;
+  border-radius:50%;
 }
