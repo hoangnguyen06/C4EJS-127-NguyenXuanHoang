@@ -1,15 +1,23 @@
-// bài 1
-// const operator = prompt('Enter operator ( either +, -, * or / ): ');
-// let a=parseFloat(prompt("nhập số bất kỳ thứ nhất:"));
-// let b=parseFloat(prompt("nhập số bất kỳ thứ hai:"));
-// if (operator=="+"){
-//     let sum=a+b;
-//     console.log(`kết quả phép cộng là:${sum}`);
-// }else if(operator=="-"){
-//     let sub=a-b;
-//     console.log(`kết quả phép trừ là:${sub}`);
-// }
-//bài 2
+bài 1
+const operator = prompt('Enter operator ( either +, -, * or / ): ');
+let a=parseFloat(prompt("nhập số bất kỳ thứ nhất:"));
+let b=parseFloat(prompt("nhập số bất kỳ thứ hai:"));
+if (operator=="+"){
+    let sum=a+b;
+    console.log(`kết quả phép cộng là:${sum}`);
+}else if(operator=="-"){
+    let sub=a-b;
+    console.log(`kết quả phép trừ là:${sub}`);
+}else if(operator=="*"){
+    let mul=a*b;
+    console.log(`kết quả phép nhân là:${mul}`)
+}else if(operator=="\"){
+    let div=a/b;
+    console.log(`kết quả phép chia là:${div}`)
+}else{
+    break;
+}
+bài 2
 function snt(n){
 let flag =1;
 if(n<2){
