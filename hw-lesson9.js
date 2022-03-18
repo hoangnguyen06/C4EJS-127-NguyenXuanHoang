@@ -35,10 +35,5 @@ function dangnhap(){
             console.log("da huy");
         }
     }
-    else if(text==array[1]&&text==array[5]){
-        console.log("Canceled");
-    }
-    else{
-        console.log("toi khong biet ban");
-    }
 }
+    
