@@ -3,6 +3,7 @@ function checkAge(age){
     let age=prompt("nhap do tuoi cua ban");
     return (age > 18) ? true : confirm('Did parents allow you?');
 }
+console.log(checkAge(prompt('how old are you?')));
 //bài 2 
 function min(a,b){
     if(a<b){
@@ -12,6 +13,7 @@ function min(a,b){
         return b;
     }
 }
+console.log(min(5,10));
 //bài 3
 let ask = (question, yes, no) => confirm(question) ? yes() : no();
   ask(
